@@ -2,6 +2,6 @@
   "users": [
     { "firstname": "Oscar", "lastname": "Vargas", "email": "oscarV@4thsource.com", "type": "1" },
     { "firstname": "Karla", "lastname": "Gomez", "email": "karlaG@4thsource.com", "type": "0" },
-    { "firstname": "Laura", "lastname": "Aguirre", "email": "lauraA@4thsource.com", "type": "2" },
+    { "firstname": "Laura", "lastname": "Aguirre", "email": "lauraA@4thsource.com", "type": "2" }
   ]
 }
